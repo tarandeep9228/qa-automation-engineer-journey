@@ -6,10 +6,10 @@ Learn the core web technologies required for QA Automation Engineering.
 
 ## Learning Goals
 
-- HTML
-- CSS
-- JavaScript
-- DOM
+- [] HTML
+- [] CSS
+- [] JavaScript
+- [] DOM
 
 ## Progress Tracker
 
